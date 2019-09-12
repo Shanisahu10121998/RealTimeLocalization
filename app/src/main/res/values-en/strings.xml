@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RealTimeLocalization</string>
+    <string name="Back">back</string>
+    <string name="ChangeLanguage">change language</string>
+    <string name="Name">name</string>
+    <string name="Password">password</string>
+    <string name="Submit">submit</string>
+</resources>
